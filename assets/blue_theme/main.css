@@ -1,0 +1,348 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+ body {
+     background-color: #004769;
+     font-family: "Open Sans", sans-serif;
+}
+ .main {
+     margin-left: 180px;
+     z-index: 0;
+     text-align: center;
+     color: white;
+     margin-top: 80px;
+     transition: 0.5s;
+}
+ .sidebar {
+     height: 100%;
+     width: 180px;
+     position: fixed;
+     z-index: 1;
+     top: 0;
+     left: 0;
+     overflow-x: hidden;
+     padding-top: 20px;
+     background-color: rgba(0, 109, 176, .15);
+       backdrop-filter: blur(10px);
+     text-align: justify;
+     transition: 0.5s;
+}
+ .nav-item {
+     z-index: 2;
+     padding: 6px 8px 6px 16px;
+     text-decoration: none;
+     font-size: 25px;
+     color: white;
+     display: block;
+     filter: blur(none);
+}
+ .nav-item:hover {
+     color: grey;
+     transition: 0.25s;
+}
+ .top-nav {
+     position: fixed;
+     top: 0;
+     left: 0;
+     width: 100%;
+     overflow-x: hidden;
+     z-index: 2;
+     background-color: rgba(0, 109, 176, .15);
+       backdrop-filter: blur(10px);
+     margin-left: 180px;
+     height: 70px;
+     transition: 0.5s;
+     color: white;
+}
+ .top-nav a {
+     text-decoration: none;
+     color: white;
+     font-size: 40px;
+     text-align: left;
+     padding: 10px;
+     margin: auto;
+     float: left;
+     
+}
+ .top-nav a:hover {
+     color: grey;
+     transition: 0.5s;
+}
+ a {
+     filter: blur(0px);
+     color: white;
+}
+ i {
+     padding-right: 10px;
+}
+ button, input, select {
+     margin: 5px;
+     background-color: #01537a;
+     border-radius: 1em;
+     color: white;
+     padding: 15px;
+     border: none;
+     transition: 0.5s;
+     cursor: pointer;
+}
+ input::placeholder {
+     color: white;
+}
+ button:hover {
+     background-color: #006db0;
+}
+ input:hover {
+     background-color: #006db0;
+}
+ .gamecontainer {
+     flex: 1;
+     display: grid;
+     margin-left: 37%;
+     padding: 15px;
+     background-color: #01537a;
+     border-radius: 1em;
+    flex-wrap: wrap;
+  display: inline-block;
+  width: 25%; /* Adjust the width as per your layout requirements */
+  margin: 10px; /* Add margin for spacing between divs */
+}
+ .gamecontainer:hover {
+     background-color: #006db0;
+     transition: 0.5s;
+}
+ .pfp {
+     border-radius: 50%;
+}
+ .userlist {
+     overflow: auto;
+     height: 120px;
+     width: 150px;
+     list-style-type: none;
+}
+ .userlist:ul {
+     list-style-type: none;
+}
+ #chat-container {
+     height: 300px;
+     overflow-y: scroll;
+     background-color: #01537a;
+     color: white;
+     padding: 10px;
+     text-align: left;
+     width: 50%;
+     margin-left: auto;
+     margin-right: auto;
+}
+ #chat-form {
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     margin-top: 10px;
+     width: 50%;
+     margin-left: auto;
+     margin-right: auto;
+     color: white;
+}
+ #message-input {
+     flex: 1;
+     padding: 10px;
+     border-radius: 5px;
+     border: none;
+     color: white;
+     width: 50%;
+}
+ #message-input:focus {
+     outline: none;
+}
+ #message-input::placeholder {
+     color: white;
+}
+ #chat-form button {
+     padding: 10px 20px;
+     border-radius: 5px;
+     background-color: #01537a;
+     color: #fff;
+     border: none;
+     cursor: pointer;
+     transition: 0.3s;
+}
+ #chat-form button:hover {
+     background-color: #006db0;
+}
+ .userlist {
+     overflow: auto;
+     height: 300px;
+     width: 350px;
+     list-style-type: none;
+     padding: 0;
+     margin: 0 auto;
+}
+ .userlist li {
+     display: flex;
+     align-items: center;
+     margin-bottom: 10px;
+}
+ .userlist .pfp {
+     width: 50px;
+     height: 50px;
+     margin-right: 10px;
+}
+ .userlist .username {
+     font-weight: bold;
+}
+ .userlist .status {
+     margin-left: auto;
+     color: green;
+}
+ .user-message {
+     text-align: right;
+    /* Add any other styling you want for user messages */
+}
+ .gamecontainer a {
+     display: block;
+     width: 100%;
+     height: 100%;
+     text-decoration: none;
+     color: inherit;
+}
+ #games {
+    display: flex;
+}
+
+/* CSS for the cookie popup */
+.cookie-popup {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    display: none;
+    z-index: 1000; /* Adjust this value as needed */
+     background: rgba(0, 66, 97, 0.8);
+     border-radius: 1em;
+     backdrop-filter: blur(10px);
+}
+
+.cookie-popup-content {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+/* Style the accept button and Learn more link */
+#accept-cookie {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    margin: 5px;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+/* Styling for the modal */
+        .modal {
+            transition: 0.5s;
+            display: none; /* Hidden by default */
+            position: fixed;
+            z-index: 999;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0,0,0,0.4);
+            
+        }
+
+        /* Styling for the modal content */
+        .modal-content {
+            transition: 0.5s;
+            color: white;
+            margin: 10% auto;
+            padding: 20px;
+            border: 1px solid #888;
+            width: 80%;
+            box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+                 background: rgba(0, 66, 97, 0.8);
+     border-radius: 1em;
+     backdrop-filter: blur(10px);
+        }
+        
+         /* Styling for the close button */
+        .close {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            font-size: 20px;
+            cursor: pointer;
+        }
+        
+        .footer {
+    left: 0;
+    bottom: 0;
+    position: fixed;
+    background-color: rgba(0, 109, 176, .15);
+    backdrop-filter: blur(10px);
+    width: 100%;
+    text-align: center;
+    color: white;
+    z-index: 0;
+}
+
+.sitebanner {
+     position: fixed;
+     left: 0;
+     width: 100%;
+     margin-left: 180px;
+     overflow-x: hidden;
+     z-index: 1;
+     background-color: rgba(0, 109, 176, .15);
+     backdrop-filter: blur(10px);
+     height: 65px;
+     transition: 0.5s;
+     color: white;
+     text-align: center;
+     
+}
+
+#paginationContainer a {
+    margin: 5px;
+    text-decoration: none;
+}
+
+ul {
+  list-style-type: none;
+    padding: 0px;
+}
+
+
+#user {
+    width: 40%;
+    padding: 15px;
+    background-color: #016189;
+    display: inline-block;
+    border-radius: 1em;  display: flex;
+  /* Optional: Align items horizontally, center, and add some spacing */
+  justify-content: space-between;
+  align-items: center;
+    list-style-type: none;
+    margin: auto;
+    margin-top: 10px;
+
+    
+
+}
+
+#profile {
+    width: 40%;
+    padding: 15px;
+    background-color: #016189;
+    border-radius: 1em;  
+  align-items: center;
+    list-style-type: none;
+    margin: auto;
+    margin-top: 10px;
+
+    
+
+}

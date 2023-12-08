@@ -1,0 +1,743 @@
+[29-Aug-2023 18:07:28 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergamesv4dev.watercdn.gq/api/login.php on line 25
+[29-Aug-2023 18:07:30 UTC] PHP Notice:  Undefined index: username in /home/watewfbs/watergamesv4dev.watercdn.gq/api/login.php on line 3
+[07-Sep-2023 17:29:05 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergamesv4dev.watercdn.gq/api/login.php on line 25
+[08-Sep-2023 19:10:00 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergamesv4dev.watercdn.gq/api/login.php on line 25
+[08-Sep-2023 19:25:04 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergamesv4dev.watercdn.gq/api/login.php on line 25
+[11-Sep-2023 13:53:57 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergamesv4dev.watercdn.gq/api/login.php on line 25
+[11-Sep-2023 17:20:45 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergamesv4dev.watercdn.gq/api/login.php on line 25
+[13-Sep-2023 17:59:37 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergamesv4dev.watercdn.gq/api/login.php on line 25
+[17-Sep-2023 06:55:33 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergamesv4dev.watercdn.gq/api/login.php on line 25
+[18-Sep-2023 20:31:14 UTC] PHP Notice:  Undefined index: username in /home/watewfbs/watergamesv4dev.watercdn.gq/api/register.php on line 3
+[19-Sep-2023 16:28:16 UTC] PHP Notice:  Undefined index: username in /home/watewfbs/watergamesv4dev.watercdn.gq/api/register.php on line 3
+[20-Sep-2023 14:34:37 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergamesv4dev.watercdn.gq/api/login.php on line 25
+[20-Sep-2023 14:34:37 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergamesv4dev.watercdn.gq/api/login.php on line 25
+[20-Sep-2023 17:06:05 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergamesv4dev.watercdn.gq/api/login.php on line 25
+[20-Sep-2023 17:06:22 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergamesv4dev.watercdn.gq/api/login.php on line 25
+[20-Sep-2023 17:06:24 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergamesv4dev.watercdn.gq/api/login.php on line 25
+[20-Sep-2023 17:06:40 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergamesv4dev.watercdn.gq/api/login.php on line 25
+[20-Sep-2023 17:06:53 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergamesv4dev.watercdn.gq/api/login.php on line 25
+[20-Sep-2023 20:54:59 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergamesv4dev.watercdn.gq/api/login.php on line 25
+[20-Sep-2023 20:54:59 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergamesv4dev.watercdn.gq/api/login.php on line 25
+[20-Sep-2023 20:55:19 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergamesv4dev.watercdn.gq/api/login.php on line 25
+[20-Sep-2023 20:55:26 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergamesv4dev.watercdn.gq/api/login.php on line 25
+[20-Sep-2023 21:33:12 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergamesv4dev.watercdn.gq/api/login.php on line 25
+[21-Sep-2023 15:32:18 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergamesv4dev.watercdn.gq/api/login.php on line 25
+[25-Sep-2023 17:24:49 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergamesv4dev.watercdn.gq/api/login.php on line 25
+[25-Sep-2023 21:45:45 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergamesv4dev.watercdn.gq/api/login.php on line 25
+[26-Sep-2023 12:51:04 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[27-Sep-2023 17:25:20 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[27-Sep-2023 18:44:42 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[27-Sep-2023 18:44:44 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[27-Sep-2023 19:02:30 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[27-Sep-2023 19:08:07 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[27-Sep-2023 19:08:09 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[28-Sep-2023 00:17:50 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[28-Sep-2023 11:22:14 UTC] PHP Notice:  Undefined index: username in /home/watewfbs/watergames.watersocials.com/api/login.php on line 3
+[28-Sep-2023 15:09:36 UTC] PHP Notice:  Undefined index: username in /home/watewfbs/watergames.watersocials.com/api/login.php on line 3
+[29-Sep-2023 11:50:58 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[29-Sep-2023 11:50:59 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[29-Sep-2023 18:10:45 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[29-Sep-2023 18:10:46 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[29-Sep-2023 23:59:18 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[30-Sep-2023 19:23:37 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[02-Oct-2023 17:12:40 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[03-Oct-2023 16:12:28 UTC] PHP Warning:  A non-numeric value encountered in /home/watewfbs/watergames.watersocials.com/api/getgames.php on line 10
+[04-Oct-2023 17:22:48 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[05-Oct-2023 15:53:07 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[05-Oct-2023 15:53:08 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[05-Oct-2023 15:53:10 UTC] PHP Notice:  Undefined index: username in /home/watewfbs/watergames.watersocials.com/api/login.php on line 3
+[05-Oct-2023 16:19:55 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[05-Oct-2023 16:32:39 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[05-Oct-2023 16:32:40 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[05-Oct-2023 18:20:00 UTC] PHP Notice:  Undefined index: username in /home/watewfbs/watergames.watersocials.com/api/login.php on line 3
+[05-Oct-2023 21:20:27 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[11-Oct-2023 20:40:29 UTC] PHP Notice:  Undefined index: username in /home/watewfbs/watergames.watersocials.com/api/login.php on line 3
+[12-Oct-2023 19:11:12 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/watewfbs/watergames.watersocials.com/base/conn.php:5
+Stack trace:
+#0 /home/watewfbs/watergames.watersocials.com/base/conn.php(5): PDO->__construct('mysql:host=loca...')
+#1 /home/watewfbs/watergames.watersocials.com/api/getgames.php(3): include_once('/home/watewfbs/...')
+#2 {main}
+  thrown in /home/watewfbs/watergames.watersocials.com/base/conn.php on line 5
+[13-Oct-2023 13:17:35 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[13-Oct-2023 13:17:36 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[13-Oct-2023 13:31:05 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[13-Oct-2023 20:38:18 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[13-Oct-2023 21:41:51 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[16-Oct-2023 18:27:54 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[16-Oct-2023 19:51:25 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[16-Oct-2023 19:51:42 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[16-Oct-2023 20:44:37 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[16-Oct-2023 21:37:52 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[17-Oct-2023 15:33:23 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[17-Oct-2023 16:24:51 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[17-Oct-2023 16:26:37 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[18-Oct-2023 14:22:26 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[18-Oct-2023 14:22:40 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[18-Oct-2023 19:24:18 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[18-Oct-2023 20:27:46 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[18-Oct-2023 20:27:48 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[19-Oct-2023 14:38:19 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[19-Oct-2023 15:53:56 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[19-Oct-2023 20:48:55 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[19-Oct-2023 20:48:57 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[19-Oct-2023 21:34:42 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[20-Oct-2023 15:05:40 UTC] PHP Warning:  A non-numeric value encountered in /home/watewfbs/watergames.watersocials.com/api/getgames.php on line 10
+[20-Oct-2023 15:05:41 UTC] PHP Warning:  A non-numeric value encountered in /home/watewfbs/watergames.watersocials.com/api/getgames.php on line 10
+[20-Oct-2023 15:05:42 UTC] PHP Warning:  A non-numeric value encountered in /home/watewfbs/watergames.watersocials.com/api/getgames.php on line 10
+[20-Oct-2023 22:18:37 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[20-Oct-2023 22:18:39 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[20-Oct-2023 22:18:47 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[22-Oct-2023 00:26:37 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[22-Oct-2023 00:26:39 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[22-Oct-2023 00:26:51 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[22-Oct-2023 00:27:05 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[23-Oct-2023 13:29:31 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[23-Oct-2023 20:24:58 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[23-Oct-2023 20:25:01 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[23-Oct-2023 20:25:46 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[23-Oct-2023 23:12:23 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[23-Oct-2023 23:12:24 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[24-Oct-2023 14:08:41 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[24-Oct-2023 15:36:42 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[24-Oct-2023 16:13:19 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[24-Oct-2023 16:13:21 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[24-Oct-2023 18:02:22 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[24-Oct-2023 19:45:32 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[24-Oct-2023 21:07:17 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[25-Oct-2023 19:28:56 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[25-Oct-2023 19:29:22 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[25-Oct-2023 19:36:07 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[26-Oct-2023 14:46:48 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[26-Oct-2023 19:51:53 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[26-Oct-2023 19:51:54 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[26-Oct-2023 20:34:13 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[26-Oct-2023 20:34:15 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[26-Oct-2023 20:34:25 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[26-Oct-2023 20:34:32 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[26-Oct-2023 20:34:42 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[27-Oct-2023 13:23:47 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[27-Oct-2023 13:23:48 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[27-Oct-2023 14:02:35 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[27-Oct-2023 14:02:45 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[27-Oct-2023 14:02:54 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[27-Oct-2023 14:02:57 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[27-Oct-2023 14:21:45 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[27-Oct-2023 14:21:47 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[27-Oct-2023 14:50:04 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[27-Oct-2023 15:19:30 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[27-Oct-2023 15:57:06 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[27-Oct-2023 16:23:53 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[27-Oct-2023 19:06:02 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[27-Oct-2023 19:26:38 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[27-Oct-2023 19:27:07 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[27-Oct-2023 19:27:57 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[27-Oct-2023 20:20:51 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[28-Oct-2023 14:03:06 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[30-Oct-2023 17:11:56 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[30-Oct-2023 17:38:04 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[30-Oct-2023 17:38:06 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[30-Oct-2023 17:38:37 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[30-Oct-2023 17:38:52 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[30-Oct-2023 17:38:53 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[30-Oct-2023 18:00:38 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[30-Oct-2023 18:00:42 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[30-Oct-2023 19:46:10 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[30-Oct-2023 19:46:10 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[31-Oct-2023 12:35:42 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[31-Oct-2023 12:35:53 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[31-Oct-2023 13:43:24 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[31-Oct-2023 13:43:36 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[31-Oct-2023 15:01:45 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[31-Oct-2023 15:15:27 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[31-Oct-2023 15:26:26 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[31-Oct-2023 15:27:48 UTC] PHP Notice:  Undefined index: recipient in /home/watewfbs/watergames.watersocials.com/api/chat-endpoint.php on line 7
+[31-Oct-2023 17:42:18 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[31-Oct-2023 17:44:48 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[31-Oct-2023 17:44:48 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[31-Oct-2023 17:45:11 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[31-Oct-2023 23:46:06 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[31-Oct-2023 23:46:08 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[01-Nov-2023 14:49:04 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[01-Nov-2023 15:16:49 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[01-Nov-2023 15:17:14 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[01-Nov-2023 15:58:42 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[01-Nov-2023 15:58:43 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[01-Nov-2023 16:58:19 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[01-Nov-2023 16:58:20 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[01-Nov-2023 18:07:28 UTC] PHP Notice:  Undefined index: recipient in /home/watewfbs/watergames.watersocials.com/api/chat-endpoint.php on line 7
+[01-Nov-2023 22:30:38 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[01-Nov-2023 22:30:39 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[02-Nov-2023 14:59:11 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[02-Nov-2023 16:20:02 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[02-Nov-2023 17:08:38 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[02-Nov-2023 17:08:38 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[02-Nov-2023 17:40:53 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[02-Nov-2023 17:40:54 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[02-Nov-2023 17:41:14 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[03-Nov-2023 00:02:16 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[03-Nov-2023 00:02:39 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[03-Nov-2023 14:20:42 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/watewfbs/watergames.watersocials.com/base/conn.php:5
+Stack trace:
+#0 /home/watewfbs/watergames.watersocials.com/base/conn.php(5): PDO->__construct('mysql:host=loca...')
+#1 /home/watewfbs/watergames.watersocials.com/api/chat-endpoint.php(2): require_once('/home/watewfbs/...')
+#2 {main}
+  thrown in /home/watewfbs/watergames.watersocials.com/base/conn.php on line 5
+[03-Nov-2023 14:20:42 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/watewfbs/watergames.watersocials.com/base/conn.php:5
+Stack trace:
+#0 /home/watewfbs/watergames.watersocials.com/base/conn.php(5): PDO->__construct('mysql:host=loca...')
+#1 /home/watewfbs/watergames.watersocials.com/api/chat-endpoint.php(2): require_once('/home/watewfbs/...')
+#2 {main}
+  thrown in /home/watewfbs/watergames.watersocials.com/base/conn.php on line 5
+[03-Nov-2023 14:20:42 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/watewfbs/watergames.watersocials.com/base/conn.php:5
+Stack trace:
+#0 /home/watewfbs/watergames.watersocials.com/base/conn.php(5): PDO->__construct('mysql:host=loca...')
+#1 /home/watewfbs/watergames.watersocials.com/api/chat-endpoint.php(2): require_once('/home/watewfbs/...')
+#2 {main}
+  thrown in /home/watewfbs/watergames.watersocials.com/base/conn.php on line 5
+[03-Nov-2023 14:39:17 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/watewfbs/watergames.watersocials.com/base/conn.php:5
+Stack trace:
+#0 /home/watewfbs/watergames.watersocials.com/base/conn.php(5): PDO->__construct('mysql:host=loca...')
+#1 /home/watewfbs/watergames.watersocials.com/api/getgames.php(3): include_once('/home/watewfbs/...')
+#2 {main}
+  thrown in /home/watewfbs/watergames.watersocials.com/base/conn.php on line 5
+[03-Nov-2023 14:39:25 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/watewfbs/watergames.watersocials.com/base/conn.php:5
+Stack trace:
+#0 /home/watewfbs/watergames.watersocials.com/base/conn.php(5): PDO->__construct('mysql:host=loca...')
+#1 /home/watewfbs/watergames.watersocials.com/api/getgames.php(3): include_once('/home/watewfbs/...')
+#2 {main}
+  thrown in /home/watewfbs/watergames.watersocials.com/base/conn.php on line 5
+[03-Nov-2023 15:12:28 UTC] PHP Notice:  Undefined index: recipient in /home/watewfbs/watergames.watersocials.com/api/chat-endpoint.php on line 7
+[03-Nov-2023 17:50:18 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[03-Nov-2023 17:50:19 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[03-Nov-2023 17:50:44 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[03-Nov-2023 17:58:32 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[03-Nov-2023 18:55:18 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[03-Nov-2023 18:56:26 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[03-Nov-2023 19:26:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/watewfbs/watergames.watersocials.com/base/conn.php:5
+Stack trace:
+#0 /home/watewfbs/watergames.watersocials.com/base/conn.php(5): PDO->__construct('mysql:host=loca...')
+#1 /home/watewfbs/watergames.watersocials.com/api/getgames.php(3): include_once('/home/watewfbs/...')
+#2 {main}
+  thrown in /home/watewfbs/watergames.watersocials.com/base/conn.php on line 5
+[03-Nov-2023 21:12:27 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/watewfbs/watergames.watersocials.com/base/conn.php:5
+Stack trace:
+#0 /home/watewfbs/watergames.watersocials.com/base/conn.php(5): PDO->__construct('mysql:host=loca...')
+#1 /home/watewfbs/watergames.watersocials.com/api/getgames.php(3): include_once('/home/watewfbs/...')
+#2 {main}
+  thrown in /home/watewfbs/watergames.watersocials.com/base/conn.php on line 5
+[03-Nov-2023 21:12:30 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/watewfbs/watergames.watersocials.com/base/conn.php:5
+Stack trace:
+#0 /home/watewfbs/watergames.watersocials.com/base/conn.php(5): PDO->__construct('mysql:host=loca...')
+#1 /home/watewfbs/watergames.watersocials.com/api/getgames.php(3): include_once('/home/watewfbs/...')
+#2 {main}
+  thrown in /home/watewfbs/watergames.watersocials.com/base/conn.php on line 5
+[03-Nov-2023 21:12:32 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/watewfbs/watergames.watersocials.com/base/conn.php:5
+Stack trace:
+#0 /home/watewfbs/watergames.watersocials.com/base/conn.php(5): PDO->__construct('mysql:host=loca...')
+#1 /home/watewfbs/watergames.watersocials.com/api/getgames.php(3): include_once('/home/watewfbs/...')
+#2 {main}
+  thrown in /home/watewfbs/watergames.watersocials.com/base/conn.php on line 5
+[03-Nov-2023 22:24:50 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/watewfbs/watergames.watersocials.com/base/conn.php:5
+Stack trace:
+#0 /home/watewfbs/watergames.watersocials.com/base/conn.php(5): PDO->__construct('mysql:host=loca...')
+#1 /home/watewfbs/watergames.watersocials.com/api/chat-endpoint.php(2): require_once('/home/watewfbs/...')
+#2 {main}
+  thrown in /home/watewfbs/watergames.watersocials.com/base/conn.php on line 5
+[03-Nov-2023 22:41:38 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[03-Nov-2023 23:40:26 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[03-Nov-2023 23:40:28 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[03-Nov-2023 23:40:41 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[03-Nov-2023 23:47:37 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[03-Nov-2023 23:47:59 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[04-Nov-2023 00:36:30 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[04-Nov-2023 00:36:32 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[04-Nov-2023 00:36:51 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[04-Nov-2023 00:53:39 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[04-Nov-2023 00:53:41 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[04-Nov-2023 03:04:16 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/watewfbs/watergames.watersocials.com/base/conn.php:5
+Stack trace:
+#0 /home/watewfbs/watergames.watersocials.com/base/conn.php(5): PDO->__construct('mysql:host=loca...')
+#1 /home/watewfbs/watergames.watersocials.com/api/getgames.php(3): include_once('/home/watewfbs/...')
+#2 {main}
+  thrown in /home/watewfbs/watergames.watersocials.com/base/conn.php on line 5
+[04-Nov-2023 04:31:43 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/watewfbs/watergames.watersocials.com/base/conn.php:5
+Stack trace:
+#0 /home/watewfbs/watergames.watersocials.com/base/conn.php(5): PDO->__construct('mysql:host=loca...')
+#1 /home/watewfbs/watergames.watersocials.com/api/getgames.php(3): include_once('/home/watewfbs/...')
+#2 {main}
+  thrown in /home/watewfbs/watergames.watersocials.com/base/conn.php on line 5
+[04-Nov-2023 04:35:52 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/watewfbs/watergames.watersocials.com/base/conn.php:5
+Stack trace:
+#0 /home/watewfbs/watergames.watersocials.com/base/conn.php(5): PDO->__construct('mysql:host=loca...')
+#1 /home/watewfbs/watergames.watersocials.com/api/getgames.php(3): include_once('/home/watewfbs/...')
+#2 {main}
+  thrown in /home/watewfbs/watergames.watersocials.com/base/conn.php on line 5
+[04-Nov-2023 15:27:24 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[05-Nov-2023 00:50:23 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[05-Nov-2023 18:07:53 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[05-Nov-2023 18:21:52 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/watewfbs/watergames.watersocials.com/base/conn.php:5
+Stack trace:
+#0 /home/watewfbs/watergames.watersocials.com/base/conn.php(5): PDO->__construct('mysql:host=loca...')
+#1 /home/watewfbs/watergames.watersocials.com/api/getgames.php(3): include_once('/home/watewfbs/...')
+#2 {main}
+  thrown in /home/watewfbs/watergames.watersocials.com/base/conn.php on line 5
+[06-Nov-2023 16:42:20 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[06-Nov-2023 16:42:26 UTC] PHP Notice:  Undefined index: username in /home/watewfbs/watergames.watersocials.com/api/login.php on line 3
+[06-Nov-2023 16:42:58 UTC] PHP Notice:  Undefined index: username in /home/watewfbs/watergames.watersocials.com/api/login.php on line 3
+[06-Nov-2023 17:12:09 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[06-Nov-2023 17:12:10 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[06-Nov-2023 17:12:23 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[06-Nov-2023 20:56:34 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[06-Nov-2023 20:56:52 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[06-Nov-2023 21:06:33 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[06-Nov-2023 21:55:45 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[06-Nov-2023 21:55:49 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[06-Nov-2023 21:55:57 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[07-Nov-2023 04:53:22 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[07-Nov-2023 04:53:24 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[07-Nov-2023 14:45:19 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[07-Nov-2023 15:13:20 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[07-Nov-2023 15:13:21 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[07-Nov-2023 15:13:41 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[07-Nov-2023 16:29:11 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[07-Nov-2023 16:29:13 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[07-Nov-2023 16:29:38 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[07-Nov-2023 16:29:47 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[07-Nov-2023 18:06:31 UTC] PHP Warning:  A non-numeric value encountered in /home/watewfbs/watergames.watersocials.com/api/getgames.php on line 10
+[07-Nov-2023 18:07:09 UTC] PHP Warning:  A non-numeric value encountered in /home/watewfbs/watergames.watersocials.com/api/getgames.php on line 10
+[07-Nov-2023 18:07:12 UTC] PHP Warning:  A non-numeric value encountered in /home/watewfbs/watergames.watersocials.com/api/getgames.php on line 10
+[07-Nov-2023 18:07:17 UTC] PHP Warning:  A non-numeric value encountered in /home/watewfbs/watergames.watersocials.com/api/getgames.php on line 10
+[07-Nov-2023 18:15:41 UTC] PHP Warning:  A non-numeric value encountered in /home/watewfbs/watergames.watersocials.com/api/getgames.php on line 10
+[07-Nov-2023 18:15:41 UTC] PHP Warning:  A non-numeric value encountered in /home/watewfbs/watergames.watersocials.com/api/getgames.php on line 10
+[07-Nov-2023 18:15:50 UTC] PHP Warning:  A non-numeric value encountered in /home/watewfbs/watergames.watersocials.com/api/getgames.php on line 10
+[07-Nov-2023 18:15:53 UTC] PHP Warning:  A non-numeric value encountered in /home/watewfbs/watergames.watersocials.com/api/getgames.php on line 10
+[07-Nov-2023 18:16:07 UTC] PHP Warning:  A non-numeric value encountered in /home/watewfbs/watergames.watersocials.com/api/getgames.php on line 10
+[07-Nov-2023 18:32:29 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[07-Nov-2023 18:32:30 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[07-Nov-2023 19:21:10 UTC] PHP Warning:  A non-numeric value encountered in /home/watewfbs/watergames.watersocials.com/api/getgames.php on line 10
+[07-Nov-2023 19:21:17 UTC] PHP Warning:  A non-numeric value encountered in /home/watewfbs/watergames.watersocials.com/api/getgames.php on line 10
+[07-Nov-2023 20:55:59 UTC] PHP Warning:  A non-numeric value encountered in /home/watewfbs/watergames.watersocials.com/api/getgames.php on line 10
+[07-Nov-2023 21:37:14 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[07-Nov-2023 21:37:17 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[07-Nov-2023 22:54:58 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[07-Nov-2023 22:55:09 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[07-Nov-2023 22:55:19 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[07-Nov-2023 22:55:28 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[07-Nov-2023 22:55:35 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[07-Nov-2023 22:55:45 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[07-Nov-2023 22:56:38 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[07-Nov-2023 22:56:44 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[07-Nov-2023 22:56:50 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[07-Nov-2023 22:57:24 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[08-Nov-2023 02:12:31 UTC] PHP Warning:  A non-numeric value encountered in /home/watewfbs/watergames.watersocials.com/api/getgames.php on line 10
+[08-Nov-2023 02:12:34 UTC] PHP Warning:  A non-numeric value encountered in /home/watewfbs/watergames.watersocials.com/api/getgames.php on line 10
+[08-Nov-2023 04:56:27 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[08-Nov-2023 13:28:57 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[08-Nov-2023 16:15:32 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[08-Nov-2023 16:15:54 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[08-Nov-2023 17:07:53 UTC] PHP Warning:  A non-numeric value encountered in /home/watewfbs/watergames.watersocials.com/api/getgames.php on line 10
+[08-Nov-2023 17:16:18 UTC] PHP Warning:  A non-numeric value encountered in /home/watewfbs/watergames.watersocials.com/api/getgames.php on line 10
+[08-Nov-2023 17:17:23 UTC] PHP Warning:  A non-numeric value encountered in /home/watewfbs/watergames.watersocials.com/api/getgames.php on line 10
+[08-Nov-2023 18:00:49 UTC] PHP Warning:  A non-numeric value encountered in /home/watewfbs/watergames.watersocials.com/api/getgames.php on line 10
+[08-Nov-2023 18:16:58 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[08-Nov-2023 18:17:17 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[08-Nov-2023 19:22:33 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[08-Nov-2023 20:26:30 UTC] PHP Warning:  A non-numeric value encountered in /home/watewfbs/watergames.watersocials.com/api/getgames.php on line 10
+[08-Nov-2023 20:36:05 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[08-Nov-2023 20:45:56 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[08-Nov-2023 21:00:08 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[08-Nov-2023 21:44:48 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[08-Nov-2023 21:44:51 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[08-Nov-2023 21:44:52 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[08-Nov-2023 21:45:02 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[08-Nov-2023 21:45:17 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[08-Nov-2023 21:45:30 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[08-Nov-2023 22:41:01 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[08-Nov-2023 23:49:37 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[08-Nov-2023 23:49:54 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[09-Nov-2023 01:43:26 UTC] PHP Fatal error:  Can't use method return value in write context in /home/watewfbs/watergames.watersocials.com/api/register.php on line 75
+[09-Nov-2023 03:11:51 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[09-Nov-2023 15:16:00 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[09-Nov-2023 15:16:02 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[09-Nov-2023 15:16:16 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[09-Nov-2023 16:06:38 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[09-Nov-2023 16:06:42 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[09-Nov-2023 17:43:59 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[09-Nov-2023 17:44:00 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[09-Nov-2023 17:44:01 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[09-Nov-2023 17:44:01 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[09-Nov-2023 17:44:10 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[09-Nov-2023 17:53:53 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[09-Nov-2023 17:53:56 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[09-Nov-2023 18:35:29 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[09-Nov-2023 18:35:31 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[09-Nov-2023 18:35:49 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[09-Nov-2023 18:38:20 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[09-Nov-2023 18:38:21 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[09-Nov-2023 19:08:09 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[09-Nov-2023 19:08:10 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[09-Nov-2023 19:11:02 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[09-Nov-2023 19:11:15 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[09-Nov-2023 19:20:37 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[09-Nov-2023 23:22:26 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[09-Nov-2023 23:44:17 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[09-Nov-2023 23:44:19 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[10-Nov-2023 13:46:47 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[10-Nov-2023 13:46:49 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[10-Nov-2023 14:32:43 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[10-Nov-2023 14:32:55 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[10-Nov-2023 14:32:56 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[10-Nov-2023 14:33:24 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[10-Nov-2023 14:33:26 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[10-Nov-2023 14:33:45 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[10-Nov-2023 14:57:11 UTC] PHP Warning:  A non-numeric value encountered in /home/watewfbs/watergames.watersocials.com/api/getgames.php on line 10
+[10-Nov-2023 17:13:45 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[10-Nov-2023 21:29:37 UTC] PHP Notice:  Undefined index: username in /home/watewfbs/watergames.watersocials.com/api/login.php on line 3
+[11-Nov-2023 00:02:28 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[12-Nov-2023 17:58:32 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[12-Nov-2023 17:58:57 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[12-Nov-2023 19:24:42 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[12-Nov-2023 19:24:43 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[13-Nov-2023 02:50:09 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[13-Nov-2023 04:37:30 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[13-Nov-2023 15:18:38 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[13-Nov-2023 15:18:49 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[13-Nov-2023 15:18:49 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[13-Nov-2023 18:20:48 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[13-Nov-2023 18:21:00 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[13-Nov-2023 18:21:42 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[13-Nov-2023 18:21:50 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[13-Nov-2023 21:48:08 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[13-Nov-2023 21:48:09 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[14-Nov-2023 00:28:39 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[14-Nov-2023 00:29:27 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[14-Nov-2023 01:23:37 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[14-Nov-2023 16:49:33 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[14-Nov-2023 17:08:08 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[14-Nov-2023 17:08:10 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[14-Nov-2023 22:28:32 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[14-Nov-2023 22:28:33 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[15-Nov-2023 15:03:05 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[15-Nov-2023 17:30:55 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[15-Nov-2023 18:57:36 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[15-Nov-2023 18:57:37 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[15-Nov-2023 20:09:03 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[15-Nov-2023 21:21:29 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[15-Nov-2023 21:52:54 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[16-Nov-2023 13:53:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'watewfbs_4vwatergames'@'localhost' (using password: YES) in /home/watewfbs/watergames.watersocials.com/base/conn.php:5
+Stack trace:
+#0 /home/watewfbs/watergames.watersocials.com/base/conn.php(5): PDO->__construct('mysql:host=loca...')
+#1 /home/watewfbs/watergames.watersocials.com/api/getgames.php(3): include_once('/home/watewfbs/...')
+#2 {main}
+  thrown in /home/watewfbs/watergames.watersocials.com/base/conn.php on line 5
+[16-Nov-2023 13:53:20 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'watewfbs_4vwatergames'@'localhost' (using password: YES) in /home/watewfbs/watergames.watersocials.com/base/conn.php:5
+Stack trace:
+#0 /home/watewfbs/watergames.watersocials.com/base/conn.php(5): PDO->__construct('mysql:host=loca...')
+#1 /home/watewfbs/watergames.watersocials.com/api/getgames.php(3): include_once('/home/watewfbs/...')
+#2 {main}
+  thrown in /home/watewfbs/watergames.watersocials.com/base/conn.php on line 5
+[16-Nov-2023 13:53:25 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'watewfbs_4vwatergames'@'localhost' (using password: YES) in /home/watewfbs/watergames.watersocials.com/base/conn.php:5
+Stack trace:
+#0 /home/watewfbs/watergames.watersocials.com/base/conn.php(5): PDO->__construct('mysql:host=loca...')
+#1 /home/watewfbs/watergames.watersocials.com/api/getgames.php(3): include_once('/home/watewfbs/...')
+#2 {main}
+  thrown in /home/watewfbs/watergames.watersocials.com/base/conn.php on line 5
+[16-Nov-2023 13:53:27 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'watewfbs_4vwatergames'@'localhost' (using password: YES) in /home/watewfbs/watergames.watersocials.com/base/conn.php:5
+Stack trace:
+#0 /home/watewfbs/watergames.watersocials.com/base/conn.php(5): PDO->__construct('mysql:host=loca...')
+#1 /home/watewfbs/watergames.watersocials.com/api/getgames.php(3): include_once('/home/watewfbs/...')
+#2 {main}
+  thrown in /home/watewfbs/watergames.watersocials.com/base/conn.php on line 5
+[16-Nov-2023 14:40:57 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'watewfbs_4vwatergames'@'localhost' (using password: YES) in /home/watewfbs/watergames.watersocials.com/base/conn.php:5
+Stack trace:
+#0 /home/watewfbs/watergames.watersocials.com/base/conn.php(5): PDO->__construct('mysql:host=loca...')
+#1 /home/watewfbs/watergames.watersocials.com/api/getgames.php(3): include_once('/home/watewfbs/...')
+#2 {main}
+  thrown in /home/watewfbs/watergames.watersocials.com/base/conn.php on line 5
+[16-Nov-2023 14:41:00 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'watewfbs_4vwatergames'@'localhost' (using password: YES) in /home/watewfbs/watergames.watersocials.com/base/conn.php:5
+Stack trace:
+#0 /home/watewfbs/watergames.watersocials.com/base/conn.php(5): PDO->__construct('mysql:host=loca...')
+#1 /home/watewfbs/watergames.watersocials.com/api/getgames.php(3): include_once('/home/watewfbs/...')
+#2 {main}
+  thrown in /home/watewfbs/watergames.watersocials.com/base/conn.php on line 5
+[16-Nov-2023 14:41:03 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'watewfbs_4vwatergames'@'localhost' (using password: YES) in /home/watewfbs/watergames.watersocials.com/base/conn.php:5
+Stack trace:
+#0 /home/watewfbs/watergames.watersocials.com/base/conn.php(5): PDO->__construct('mysql:host=loca...')
+#1 /home/watewfbs/watergames.watersocials.com/api/getgames.php(3): include_once('/home/watewfbs/...')
+#2 {main}
+  thrown in /home/watewfbs/watergames.watersocials.com/base/conn.php on line 5
+[16-Nov-2023 14:41:05 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'watewfbs_4vwatergames'@'localhost' (using password: YES) in /home/watewfbs/watergames.watersocials.com/base/conn.php:5
+Stack trace:
+#0 /home/watewfbs/watergames.watersocials.com/base/conn.php(5): PDO->__construct('mysql:host=loca...')
+#1 /home/watewfbs/watergames.watersocials.com/api/getgames.php(3): include_once('/home/watewfbs/...')
+#2 {main}
+  thrown in /home/watewfbs/watergames.watersocials.com/base/conn.php on line 5
+[16-Nov-2023 14:41:26 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'watewfbs_4vwatergames'@'localhost' (using password: YES) in /home/watewfbs/watergames.watersocials.com/base/conn.php:5
+Stack trace:
+#0 /home/watewfbs/watergames.watersocials.com/base/conn.php(5): PDO->__construct('mysql:host=loca...')
+#1 /home/watewfbs/watergames.watersocials.com/api/getgames.php(3): include_once('/home/watewfbs/...')
+#2 {main}
+  thrown in /home/watewfbs/watergames.watersocials.com/base/conn.php on line 5
+[16-Nov-2023 14:41:28 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'watewfbs_4vwatergames'@'localhost' (using password: YES) in /home/watewfbs/watergames.watersocials.com/base/conn.php:5
+Stack trace:
+#0 /home/watewfbs/watergames.watersocials.com/base/conn.php(5): PDO->__construct('mysql:host=loca...')
+#1 /home/watewfbs/watergames.watersocials.com/api/getgames.php(3): include_once('/home/watewfbs/...')
+#2 {main}
+  thrown in /home/watewfbs/watergames.watersocials.com/base/conn.php on line 5
+[16-Nov-2023 14:55:30 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'watewfbs_4vwatergames'@'localhost' (using password: YES) in /home/watewfbs/watergames.watersocials.com/base/conn.php:5
+Stack trace:
+#0 /home/watewfbs/watergames.watersocials.com/base/conn.php(5): PDO->__construct('mysql:host=loca...')
+#1 /home/watewfbs/watergames.watersocials.com/api/getgames.php(3): include_once('/home/watewfbs/...')
+#2 {main}
+  thrown in /home/watewfbs/watergames.watersocials.com/base/conn.php on line 5
+[16-Nov-2023 14:55:35 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'watewfbs_4vwatergames'@'localhost' (using password: YES) in /home/watewfbs/watergames.watersocials.com/base/conn.php:5
+Stack trace:
+#0 /home/watewfbs/watergames.watersocials.com/base/conn.php(5): PDO->__construct('mysql:host=loca...')
+#1 /home/watewfbs/watergames.watersocials.com/api/getgames.php(3): include_once('/home/watewfbs/...')
+#2 {main}
+  thrown in /home/watewfbs/watergames.watersocials.com/base/conn.php on line 5
+[16-Nov-2023 14:55:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'watewfbs_4vwatergames'@'localhost' (using password: YES) in /home/watewfbs/watergames.watersocials.com/base/conn.php:5
+Stack trace:
+#0 /home/watewfbs/watergames.watersocials.com/base/conn.php(5): PDO->__construct('mysql:host=loca...')
+#1 /home/watewfbs/watergames.watersocials.com/api/getgames.php(3): include_once('/home/watewfbs/...')
+#2 {main}
+  thrown in /home/watewfbs/watergames.watersocials.com/base/conn.php on line 5
+[16-Nov-2023 14:58:12 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'watewfbs_4vwatergames'@'localhost' (using password: YES) in /home/watewfbs/watergames.watersocials.com/base/conn.php:5
+Stack trace:
+#0 /home/watewfbs/watergames.watersocials.com/base/conn.php(5): PDO->__construct('mysql:host=loca...')
+#1 /home/watewfbs/watergames.watersocials.com/api/getgames.php(3): include_once('/home/watewfbs/...')
+#2 {main}
+  thrown in /home/watewfbs/watergames.watersocials.com/base/conn.php on line 5
+[16-Nov-2023 15:00:04 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'watewfbs_4vwatergames'@'localhost' (using password: YES) in /home/watewfbs/watergames.watersocials.com/base/conn.php:5
+Stack trace:
+#0 /home/watewfbs/watergames.watersocials.com/base/conn.php(5): PDO->__construct('mysql:host=loca...')
+#1 /home/watewfbs/watergames.watersocials.com/api/getgames.php(3): include_once('/home/watewfbs/...')
+#2 {main}
+  thrown in /home/watewfbs/watergames.watersocials.com/base/conn.php on line 5
+[16-Nov-2023 15:00:06 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'watewfbs_4vwatergames'@'localhost' (using password: YES) in /home/watewfbs/watergames.watersocials.com/base/conn.php:5
+Stack trace:
+#0 /home/watewfbs/watergames.watersocials.com/base/conn.php(5): PDO->__construct('mysql:host=loca...')
+#1 /home/watewfbs/watergames.watersocials.com/api/getgames.php(3): include_once('/home/watewfbs/...')
+#2 {main}
+  thrown in /home/watewfbs/watergames.watersocials.com/base/conn.php on line 5
+[16-Nov-2023 15:00:10 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'watewfbs_4vwatergames'@'localhost' (using password: YES) in /home/watewfbs/watergames.watersocials.com/base/conn.php:5
+Stack trace:
+#0 /home/watewfbs/watergames.watersocials.com/base/conn.php(5): PDO->__construct('mysql:host=loca...')
+#1 /home/watewfbs/watergames.watersocials.com/api/getgames.php(3): include_once('/home/watewfbs/...')
+#2 {main}
+  thrown in /home/watewfbs/watergames.watersocials.com/base/conn.php on line 5
+[16-Nov-2023 15:00:14 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'watewfbs_4vwatergames'@'localhost' (using password: YES) in /home/watewfbs/watergames.watersocials.com/base/conn.php:5
+Stack trace:
+#0 /home/watewfbs/watergames.watersocials.com/base/conn.php(5): PDO->__construct('mysql:host=loca...')
+#1 /home/watewfbs/watergames.watersocials.com/api/getgames.php(3): include_once('/home/watewfbs/...')
+#2 {main}
+  thrown in /home/watewfbs/watergames.watersocials.com/base/conn.php on line 5
+[16-Nov-2023 15:00:18 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'watewfbs_4vwatergames'@'localhost' (using password: YES) in /home/watewfbs/watergames.watersocials.com/base/conn.php:5
+Stack trace:
+#0 /home/watewfbs/watergames.watersocials.com/base/conn.php(5): PDO->__construct('mysql:host=loca...')
+#1 /home/watewfbs/watergames.watersocials.com/api/getgames.php(3): include_once('/home/watewfbs/...')
+#2 {main}
+  thrown in /home/watewfbs/watergames.watersocials.com/base/conn.php on line 5
+[16-Nov-2023 15:00:25 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'watewfbs_4vwatergames'@'localhost' (using password: YES) in /home/watewfbs/watergames.watersocials.com/base/conn.php:5
+Stack trace:
+#0 /home/watewfbs/watergames.watersocials.com/base/conn.php(5): PDO->__construct('mysql:host=loca...')
+#1 /home/watewfbs/watergames.watersocials.com/api/getgames.php(3): include_once('/home/watewfbs/...')
+#2 {main}
+  thrown in /home/watewfbs/watergames.watersocials.com/base/conn.php on line 5
+[16-Nov-2023 15:05:27 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'watewfbs_4vwatergames'@'localhost' (using password: YES) in /home/watewfbs/watergames.watersocials.com/base/conn.php:5
+Stack trace:
+#0 /home/watewfbs/watergames.watersocials.com/base/conn.php(5): PDO->__construct('mysql:host=loca...')
+#1 /home/watewfbs/watergames.watersocials.com/api/getgames.php(3): include_once('/home/watewfbs/...')
+#2 {main}
+  thrown in /home/watewfbs/watergames.watersocials.com/base/conn.php on line 5
+[16-Nov-2023 16:02:10 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'watewfbs_4vwatergames'@'localhost' (using password: YES) in /home/watewfbs/watergames.watersocials.com/base/conn.php:5
+Stack trace:
+#0 /home/watewfbs/watergames.watersocials.com/base/conn.php(5): PDO->__construct('mysql:host=loca...')
+#1 /home/watewfbs/watergames.watersocials.com/api/getgames.php(3): include_once('/home/watewfbs/...')
+#2 {main}
+  thrown in /home/watewfbs/watergames.watersocials.com/base/conn.php on line 5
+[16-Nov-2023 16:02:12 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'watewfbs_4vwatergames'@'localhost' (using password: YES) in /home/watewfbs/watergames.watersocials.com/base/conn.php:5
+Stack trace:
+#0 /home/watewfbs/watergames.watersocials.com/base/conn.php(5): PDO->__construct('mysql:host=loca...')
+#1 /home/watewfbs/watergames.watersocials.com/api/getgames.php(3): include_once('/home/watewfbs/...')
+#2 {main}
+  thrown in /home/watewfbs/watergames.watersocials.com/base/conn.php on line 5
+[16-Nov-2023 16:02:19 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'watewfbs_4vwatergames'@'localhost' (using password: YES) in /home/watewfbs/watergames.watersocials.com/base/conn.php:5
+Stack trace:
+#0 /home/watewfbs/watergames.watersocials.com/base/conn.php(5): PDO->__construct('mysql:host=loca...')
+#1 /home/watewfbs/watergames.watersocials.com/api/getgames.php(3): include_once('/home/watewfbs/...')
+#2 {main}
+  thrown in /home/watewfbs/watergames.watersocials.com/base/conn.php on line 5
+[16-Nov-2023 16:02:24 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'watewfbs_4vwatergames'@'localhost' (using password: YES) in /home/watewfbs/watergames.watersocials.com/base/conn.php:5
+Stack trace:
+#0 /home/watewfbs/watergames.watersocials.com/base/conn.php(5): PDO->__construct('mysql:host=loca...')
+#1 /home/watewfbs/watergames.watersocials.com/api/getgames.php(3): include_once('/home/watewfbs/...')
+#2 {main}
+  thrown in /home/watewfbs/watergames.watersocials.com/base/conn.php on line 5
+[16-Nov-2023 16:02:28 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'watewfbs_4vwatergames'@'localhost' (using password: YES) in /home/watewfbs/watergames.watersocials.com/base/conn.php:5
+Stack trace:
+#0 /home/watewfbs/watergames.watersocials.com/base/conn.php(5): PDO->__construct('mysql:host=loca...')
+#1 /home/watewfbs/watergames.watersocials.com/api/getgames.php(3): include_once('/home/watewfbs/...')
+#2 {main}
+  thrown in /home/watewfbs/watergames.watersocials.com/base/conn.php on line 5
+[16-Nov-2023 16:08:07 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'watewfbs_4vwatergames'@'localhost' (using password: YES) in /home/watewfbs/watergames.watersocials.com/base/conn.php:5
+Stack trace:
+#0 /home/watewfbs/watergames.watersocials.com/base/conn.php(5): PDO->__construct('mysql:host=loca...')
+#1 /home/watewfbs/watergames.watersocials.com/api/getgames.php(3): include_once('/home/watewfbs/...')
+#2 {main}
+  thrown in /home/watewfbs/watergames.watersocials.com/base/conn.php on line 5
+[16-Nov-2023 16:08:11 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'watewfbs_4vwatergames'@'localhost' (using password: YES) in /home/watewfbs/watergames.watersocials.com/base/conn.php:5
+Stack trace:
+#0 /home/watewfbs/watergames.watersocials.com/base/conn.php(5): PDO->__construct('mysql:host=loca...')
+#1 /home/watewfbs/watergames.watersocials.com/api/getgames.php(3): include_once('/home/watewfbs/...')
+#2 {main}
+  thrown in /home/watewfbs/watergames.watersocials.com/base/conn.php on line 5
+[16-Nov-2023 16:08:15 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'watewfbs_4vwatergames'@'localhost' (using password: YES) in /home/watewfbs/watergames.watersocials.com/base/conn.php:5
+Stack trace:
+#0 /home/watewfbs/watergames.watersocials.com/base/conn.php(5): PDO->__construct('mysql:host=loca...')
+#1 /home/watewfbs/watergames.watersocials.com/api/getgames.php(3): include_once('/home/watewfbs/...')
+#2 {main}
+  thrown in /home/watewfbs/watergames.watersocials.com/base/conn.php on line 5
+[16-Nov-2023 16:09:57 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'watewfbs_4vwatergames'@'localhost' (using password: YES) in /home/watewfbs/watergames.watersocials.com/base/conn.php:5
+Stack trace:
+#0 /home/watewfbs/watergames.watersocials.com/base/conn.php(5): PDO->__construct('mysql:host=loca...')
+#1 /home/watewfbs/watergames.watersocials.com/api/getgames.php(3): include_once('/home/watewfbs/...')
+#2 {main}
+  thrown in /home/watewfbs/watergames.watersocials.com/base/conn.php on line 5
+[16-Nov-2023 16:10:04 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'watewfbs_4vwatergames'@'localhost' (using password: YES) in /home/watewfbs/watergames.watersocials.com/base/conn.php:5
+Stack trace:
+#0 /home/watewfbs/watergames.watersocials.com/base/conn.php(5): PDO->__construct('mysql:host=loca...')
+#1 /home/watewfbs/watergames.watersocials.com/api/getgames.php(3): include_once('/home/watewfbs/...')
+#2 {main}
+  thrown in /home/watewfbs/watergames.watersocials.com/base/conn.php on line 5
+[16-Nov-2023 16:10:06 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'watewfbs_4vwatergames'@'localhost' (using password: YES) in /home/watewfbs/watergames.watersocials.com/base/conn.php:5
+Stack trace:
+#0 /home/watewfbs/watergames.watersocials.com/base/conn.php(5): PDO->__construct('mysql:host=loca...')
+#1 /home/watewfbs/watergames.watersocials.com/api/getgames.php(3): include_once('/home/watewfbs/...')
+#2 {main}
+  thrown in /home/watewfbs/watergames.watersocials.com/base/conn.php on line 5
+[16-Nov-2023 16:10:11 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'watewfbs_4vwatergames'@'localhost' (using password: YES) in /home/watewfbs/watergames.watersocials.com/base/conn.php:5
+Stack trace:
+#0 /home/watewfbs/watergames.watersocials.com/base/conn.php(5): PDO->__construct('mysql:host=loca...')
+#1 /home/watewfbs/watergames.watersocials.com/api/getgames.php(3): include_once('/home/watewfbs/...')
+#2 {main}
+  thrown in /home/watewfbs/watergames.watersocials.com/base/conn.php on line 5
+[16-Nov-2023 16:15:04 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'watewfbs_4vwatergames'@'localhost' (using password: YES) in /home/watewfbs/watergames.watersocials.com/base/conn.php:5
+Stack trace:
+#0 /home/watewfbs/watergames.watersocials.com/base/conn.php(5): PDO->__construct('mysql:host=loca...')
+#1 /home/watewfbs/watergames.watersocials.com/api/getgames.php(3): include_once('/home/watewfbs/...')
+#2 {main}
+  thrown in /home/watewfbs/watergames.watersocials.com/base/conn.php on line 5
+[16-Nov-2023 17:13:27 UTC] PHP Notice:  Undefined index: username in /home/watewfbs/watergames.watersocials.com/api/register.php on line 3
+[16-Nov-2023 17:19:16 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'watewfbs_4vwatergames'@'localhost' (using password: YES) in /home/watewfbs/watergames.watersocials.com/base/conn.php:5
+Stack trace:
+#0 /home/watewfbs/watergames.watersocials.com/base/conn.php(5): PDO->__construct('mysql:host=loca...')
+#1 /home/watewfbs/watergames.watersocials.com/api/getgames.php(3): include_once('/home/watewfbs/...')
+#2 {main}
+  thrown in /home/watewfbs/watergames.watersocials.com/base/conn.php on line 5
+[16-Nov-2023 19:52:42 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[16-Nov-2023 19:52:43 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[16-Nov-2023 19:52:53 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[16-Nov-2023 20:37:52 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[16-Nov-2023 20:37:54 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[16-Nov-2023 21:25:54 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[16-Nov-2023 21:25:56 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[16-Nov-2023 22:17:06 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[16-Nov-2023 23:13:05 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[16-Nov-2023 23:45:06 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[16-Nov-2023 23:45:29 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[17-Nov-2023 17:15:48 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[17-Nov-2023 17:15:58 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[17-Nov-2023 19:12:26 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[17-Nov-2023 21:02:19 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[18-Nov-2023 01:11:20 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[18-Nov-2023 17:47:41 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[19-Nov-2023 00:09:26 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[19-Nov-2023 00:29:54 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[20-Nov-2023 01:52:33 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[20-Nov-2023 15:14:05 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[20-Nov-2023 15:14:06 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[20-Nov-2023 15:32:26 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[20-Nov-2023 21:23:29 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[20-Nov-2023 21:23:31 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[21-Nov-2023 14:29:50 UTC] PHP Warning:  A non-numeric value encountered in /home/watewfbs/watergames.watersocials.com/api/getgames.php on line 10
+[21-Nov-2023 15:07:39 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[21-Nov-2023 15:07:39 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[21-Nov-2023 15:07:39 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[21-Nov-2023 15:07:41 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[21-Nov-2023 15:07:42 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[21-Nov-2023 16:44:40 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[21-Nov-2023 16:44:42 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[21-Nov-2023 19:44:58 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[21-Nov-2023 20:55:17 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[21-Nov-2023 20:55:17 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[21-Nov-2023 20:55:41 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[21-Nov-2023 20:55:54 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[21-Nov-2023 21:13:57 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[22-Nov-2023 15:00:58 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[22-Nov-2023 17:17:26 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[23-Nov-2023 20:23:38 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[23-Nov-2023 20:23:39 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[23-Nov-2023 20:23:57 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[26-Nov-2023 17:06:39 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[26-Nov-2023 17:06:52 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[26-Nov-2023 17:07:08 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[26-Nov-2023 17:07:20 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[26-Nov-2023 17:07:27 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[27-Nov-2023 14:11:11 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[27-Nov-2023 14:11:28 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[27-Nov-2023 14:11:36 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[27-Nov-2023 14:11:47 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[27-Nov-2023 16:39:49 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[27-Nov-2023 16:49:40 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[27-Nov-2023 16:49:42 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[27-Nov-2023 21:22:31 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[27-Nov-2023 21:22:33 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[27-Nov-2023 21:22:34 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[27-Nov-2023 21:22:52 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[28-Nov-2023 02:44:57 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[28-Nov-2023 18:23:15 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[28-Nov-2023 18:23:19 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[28-Nov-2023 18:23:31 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[28-Nov-2023 18:23:40 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[28-Nov-2023 19:52:34 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[28-Nov-2023 19:52:53 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[28-Nov-2023 19:53:07 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[28-Nov-2023 22:22:50 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[28-Nov-2023 22:23:54 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[29-Nov-2023 01:32:25 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[29-Nov-2023 18:37:27 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[29-Nov-2023 18:37:28 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[29-Nov-2023 18:37:29 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[29-Nov-2023 19:34:36 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[29-Nov-2023 19:34:39 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[29-Nov-2023 19:35:00 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[29-Nov-2023 19:35:58 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[29-Nov-2023 19:40:41 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[29-Nov-2023 19:40:46 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[29-Nov-2023 19:40:51 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[29-Nov-2023 19:40:57 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[29-Nov-2023 19:41:12 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[30-Nov-2023 15:03:48 UTC] PHP Notice:  Undefined variable: theme in /home/watewfbs/watergames.watersocials.com/api/updatetheme.php on line 4
+[30-Nov-2023 17:04:32 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[30-Nov-2023 17:04:51 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[30-Nov-2023 19:04:31 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[30-Nov-2023 19:04:56 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[30-Nov-2023 19:32:20 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[30-Nov-2023 19:32:22 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[30-Nov-2023 21:00:36 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[30-Nov-2023 23:46:59 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[01-Dec-2023 00:25:19 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[01-Dec-2023 03:09:34 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[01-Dec-2023 14:40:37 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[01-Dec-2023 16:43:48 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[01-Dec-2023 16:43:50 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[01-Dec-2023 17:21:37 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[01-Dec-2023 17:21:38 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[01-Dec-2023 20:30:34 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[02-Dec-2023 06:01:27 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[02-Dec-2023 06:01:46 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[02-Dec-2023 06:01:55 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[02-Dec-2023 18:26:23 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[02-Dec-2023 18:26:24 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
+[02-Dec-2023 18:26:24 UTC] PHP Notice:  Undefined variable: hashed_password in /home/watewfbs/watergames.watersocials.com/api/login.php on line 25
